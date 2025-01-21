@@ -6,3 +6,15 @@ print(set3)
 
 
 Hello everyone this is my new commit
+
+
+Dictionaries are changeable, meaning that we can change, add or remove items after the dictionary has been created.
+
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(thisdict)
