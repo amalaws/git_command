@@ -1,5 +1,28 @@
 <<<<<<< HEAD
-HEllo every one
+HEllo every one
 =======
-Hello today I commit for check the global i worked or AWS .. Beginer to Expert
->>>>>>> 1287cdbbc1ba55b294af701c9cec009f16e7c6c1
+ I worked on article AWS Beginer to Expert , so check out below link 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+This is my AWS_article link please go theri , u learn much more of AWS services 
+
+GITHUB
+
+https://github.com/amalaws/AWS_article
+
+HASHNODE
+
+https://hashnode.com/@AmalDevops
+
+
+Vist My Site 
+
+https://www.amalsri.xyz/
+
+
+vist my Linkedln profile 
+
+https://www.linkedin.com/in/amal-raj-28499a1ab/
+
+
+Happy learning !! 
